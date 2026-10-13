@@ -1,0 +1,6 @@
+{
+	"item.compactmachines_aet.tunnels.network": "Applied Energistics Network Tunnel",
+	"item.compactmachines_aet.tunnels.dense_network": "Applied Energistics Dense Network Tunnel",
+	"text.compactmachines_aet.tunnels.tooltip": "This tunnel does not check the direction",
+	"_eol": "_eol"
+}

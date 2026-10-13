@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "giselle.compactmachines_aet.client.mixin",
+	"minVersion": "0.0.0",
+	"compatibilityLevel": "JAVA_17",
+	"client": [],
+	"mixins": [],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"refmap": "compactmachines_aet.mixin.refmap.json"
+}
